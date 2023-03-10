@@ -1,1 +1,1 @@
-Mandatory file for vagrant project
+vagrant hello ubuntu
